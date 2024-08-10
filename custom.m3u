@@ -1,0 +1,47 @@
+#EXTM3U
+
+# Travel & Nature Channels
+#EXTINF:-1 channel-id="samsung-CAAJ2700030ON" tvg-id="CAAJ2700030ON" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20220511T002618SQUARE.png_20220511002619.png" tvg-chno="1178" group-title="Canada" , Outside
+https://jmp2.uk/SamsungTVPlus/CAAJ2700030ON.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="Documentaries",BBC Earth (720p)
+https://lnc-bbc-earth2.tubi.video/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1700001RW" tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240520T214740SQUARE.png" tvg-chno="3526" group-title="United States" , BBC Earth
+https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:-1 tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Documentaries",PBS Nature (720p)
+https://example-url-for-pbs-nature.m3u8
+#EXTINF:-1 channel-id="samsung-DEBA1000009TT" tvg-id="DEBA1000009TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png" tvg-chno="4402" group-title="Germany" , BBC Travel
+https://jmp2.uk/SamsungTVPlus/DEBA1000009TT.m3u8
+
+# Documentary Channels
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="Documentaries",PBS America (720p)
+https://example-url-for-pbs-america.m3u8
+
+# Food and Lifestyle Channels
+#EXTINF:-1 tvg-id="PlutoTVBBCFood.uk" tvg-logo="https://www.thespruceeats.com/thmb/_4SLhXA07skWCTlxujfAfoOdakA=/1024x768/filters:no_upscale():max_bytes(150000):strip_icc()/BBC_Food_logo.svg-495c453035fa415ab2c78eba80c87447.png" group-title="Food & Lifestyle",Pluto TV BBC Food (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 channel-id="samsung-AT2000029T" tvg-id="AT2000029T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20240709T044943SQUARE.png" tvg-chno="4426" group-title="Austria" , The Jamie Oliver Channel
+https://jmp2.uk/SamsungTVPlus/AT2000029T.m3u8
+#EXTINF:-1 channel-id="samsung-ATBD2600001QK" tvg-id="ATBD2600001QK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600001QK_20240709T044931SQUARE.png" tvg-chno="4007" group-title="Austria" , Hell's Kitchen
+https://jmp2.uk/SamsungTVPlus/ATBD2600001QK.m3u8
+
+# English News Channels
+#EXTINF:-1 channel-id="samsung-ATBD800001VA" tvg-id="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" tvg-chno="4005" group-title="Austria" , CNN
+https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
+
+# Dutch News Channels
+#EXTINF:-1 tvg-id="AT5.nl" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="News",AT5 (720p)
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="OmroepGelderland.nl" tvg-logo="https://i.imgur.com/G08hKit.png" group-title="News",Omroep Gelderland (720p) [Not 24/7]
+https://web.omroepgelderland.nl/live/livetv.m3u8
+
+# Israeli News Channels
+#EXTINF:-1 tvg-id="Kan11.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" group-title="News",KAN 11 Israel (1080p)
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="News",Reshet 13 (1080p)
+https://example-url-for-reshet13.m3u8
+#EXTINF:-1 tvg-id="Now14.il" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="News",Now 14 (720p)
+https://example-url-for-now14.m3u8
+
+# Comedy Channels
+#EXTINF:-1 channel-id="samsung-ATAK3504510A" tvg-id="ATAK3504510A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504510A_20221026T004144SQUARE.png_20221026004145.png" tvg-chno="4134" group-title="Austria" , Comedy Central Pluto TV
+https://jmp2.uk/SamsungTVPlus/ATAK3504510A.m3u8
